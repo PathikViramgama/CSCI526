@@ -1,2 +1,2 @@
 # CSCI526
-All Projects for USC CSCI526 Fall2024
+The Code is in Master Branch
